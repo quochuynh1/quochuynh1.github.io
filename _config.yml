@@ -21,14 +21,30 @@ repository               : "quochuynh1/quochuynh1.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+#author:
+#  # Biographic information
+#  avatar           : "profile2.png"
+#  name             : "Alex Huynh"
+##  pronouns         : # example: "she/her"
+#  bio              : "Penultimate EEE (Honours) student at JCU Cairns. Interested in analogue circuit design, consumer electronics, and biomedical technology."
+#  location         : "Cairns, QLD, Australia"
+##  employer         : "Red Brick University"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:quoc.huynh1@my.jcu.edu.au"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://linkedin.com/in/quoc-huynh-1a6710397"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/quochuynh1"
+
 author:
-  # Biographic information
-  avatar           : "profile2.png"
-  name             : "Alex Huynh"
-#  pronouns         : # example: "she/her"
-  bio              : "Penultimate EEE (Honours) student at JCU Cairns. Interested in analogue circuit design, consumer electronics, and biomedical technology."
-  location         : "Cairns, QLD, Australia"
-#  employer         : "Red Brick University"
+  avatar: "/images/profile2.png"
+  name: "Alex Huynh"
+  bio: "Penultimate EEE (Honours) student at JCU Cairns."
+  location: "Cairns, QLD, Australia"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
