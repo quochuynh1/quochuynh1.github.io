@@ -8,29 +8,37 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Quoc (Alex) Huynh"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Quoc (Alex) Huynh"
+description              : &description "Electrical and Electronic Engineering student at James Cook University"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://quochuynh1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "quochuynh1/quochuynh1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile2.png"
+  name             : "Alex Huynh"
+#  pronouns         : # example: "she/her"
+  bio              : "Penultimate EEE (Honours) student at JCU Cairns. Interested in analogue circuit design, consumer electronics, and biomedical technology."
+  location         : "Cairns, QLD, Australia"
+#  employer         : "Red Brick University"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:quoc.huynh1@my.jcu.edu.au"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/quoc-huynh-1a6710397"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/quochuynh1"
 
   # Academic websites
   academia         : # URL
