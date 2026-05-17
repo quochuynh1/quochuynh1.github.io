@@ -2,6 +2,10 @@
 permalink: /
 title: "Hi I'm Alex 👋"
 author_profile: true
+header:
+  overlay_image: images/banner.png
+  overlay_filter: 0.4
+  caption: "Cairns, QLD"
 redirect_from: 
   - /about/
   - /about.html
