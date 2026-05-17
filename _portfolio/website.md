@@ -9,8 +9,8 @@ collection: portfolio
 **Course:** CP1406 Web Design & Development — Trimester 2, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** HTML5, CSS3, JavaScript, Visual Studio Code
 
-![Homepage screenshot](homepage.png)
-![Homepage screenshot](booknow.png)
+![Homepage screenshot](/images/homepage.png)
+![Homepage screenshot](/images/booknow.png)
 
 ## Objective
 
