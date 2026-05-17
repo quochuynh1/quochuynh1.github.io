@@ -3,10 +3,10 @@ permalink: /
 title: "Hi I'm Alex 👋"
 author_profile: true
 header:
-  overlay_image: banner.png
+  overlay_image: banner.jpg
   overlay_filter: 0.4
   overlay_color: "#000"
-  min_height: 400px
+  min_height: 1000px
   caption: "JCU Cairns, QLD"
 redirect_from: 
   - /about/
