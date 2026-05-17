@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/banner.png" alt="EEE lab bench" style="max-width: 600px; width: 100%; border-radius: 8px;">
+<img src="/images/banner.jpg" alt="EEE lab bench" style="max-width: 600px; width: 100%; border-radius: 8px;">
 
 I'm a penultimate Electrical and Electronic Engineering (Honours) student 
 at James Cook University, Cairns, with a strong foundation in analogue 
