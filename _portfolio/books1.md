@@ -1,6 +1,5 @@
 ---
 title: "Python Console Program — Books to Read 1.0"
-date: 2025-03-01
 excerpt: "Command-line book tracker in Python with CSV persistence, modular design, and robust input validation — CP1404 Programming II, T3 2025."
 header:
   teaser: books1.png
