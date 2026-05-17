@@ -2,7 +2,7 @@
 title: "CNC Milling Machine Control System"
 excerpt: "Embedded C control system for a 2-axis CNC milling machine on Raspberry Pi Pico — CC2511 Digital Logic & Embedded Systems, T1 2025."
 header:
-  teaser: cnc.png
+  teaser: cnc2.jpeg
 collection: portfolio
 ---
 
