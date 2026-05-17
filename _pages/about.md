@@ -5,7 +5,9 @@ author_profile: true
 header:
   overlay_image: banner.png
   overlay_filter: 0.4
-  caption: "Cairns, QLD"
+  overlay_color: "#000"
+  min_height: 400px
+  caption: "JCU Cairns, QLD"
 redirect_from: 
   - /about/
   - /about.html
