@@ -8,9 +8,7 @@ collection: portfolio
 
 **Course:** CP1406 Web Design & Development — Trimester 2, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** HTML5, CSS3, JavaScript, Visual Studio Code
-
-![Homepage screenshot](/images/homepage.png)
-![Homepage screenshot](/images/booknow.png)
+**Source Code:** [github.com/quochuynh1/a1-books](https://github.com/quochuynh1/a1-books)
 
 ## Objective
 
@@ -23,6 +21,12 @@ Design and implement a multi-page responsive website for a fictional dental prac
 - Developed a hamburger menu for mobile navigation using a JavaScript function, replacing the standard horizontal nav bar on smaller screens
 - Structured semantic HTML content including a services list, promotional offers, opening hours, and a call-to-action booking button linked to the Contact page
 - Applied a consistent visual identity across pages with a shared external stylesheet
+
+## Snippets of Website
+
+![Homepage screenshot](/images/homepage.png)
+![Homepage screenshot](/images/booknow.png)
+![Website screenshot](/images/website.png)
 
 ## Outcome
 
