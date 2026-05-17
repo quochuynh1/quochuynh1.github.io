@@ -2,16 +2,12 @@
 permalink: /
 title: "Hi I'm Alex 👋"
 author_profile: true
-header:
-  overlay_image: banner.jpg
-  overlay_filter: 0.4
-  overlay_color: "#000"
-  min_height: 1000px
-  caption: "JCU Cairns, QLD"
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<img src="/images/banner.png" alt="EEE lab bench" style="max-width: 600px; width: 100%; border-radius: 8px;">
 
 I'm a penultimate Electrical and Electronic Engineering (Honours) student 
 at James Cook University, Cairns, with a strong foundation in analogue 
