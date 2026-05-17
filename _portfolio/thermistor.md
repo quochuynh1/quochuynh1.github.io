@@ -2,7 +2,7 @@
 title: "NTC Thermistor Temperature Sensing System"
 excerpt: "Analogue temperature sensing circuit with op-amp buffer, Arduino firmware, and live IoT dashboard — EG1012 Electric Circuits, Sem 2 2024."
 header:
-  teaser: /images/thermistor.png
+  teaser: thermistor.png
 collection: portfolio
 ---
 
