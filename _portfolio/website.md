@@ -7,7 +7,7 @@ collection: portfolio
 ---
 
 **Course:** CP1406 Web Design & Development — Trimester 2, 2025 — James Cook University, Cairns  
-**Tools & Equipment:** HTML5, CSS3, JavaScript, Visual Studio Code
+**Tools & Equipment:** HTML5, CSS3, JavaScript, Visual Studio Code  
 **Source Code:** [github.com/quochuynh1/100SMILES-Dental-Care-Website](https://github.com/quochuynh1/100SMILES-Dental-Care-Website)
 
 ## Objective
@@ -24,9 +24,9 @@ Design and implement a multi-page responsive website for a fictional dental prac
 
 ## Snippets of Website
 
-![Homepage screenshot](/images/homepage.png)
-![Homepage screenshot](/images/booknow.png)
-![Website screenshot](/images/website.png)
+![Homepage screenshot](/images/website/homepage.png)
+![Homepage screenshot](/images/website/booknow.png)
+![Website screenshot](/images/website/website.png)
 
 ## Outcome
 
