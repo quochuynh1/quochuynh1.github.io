@@ -2,7 +2,7 @@
 title: "Additive Audio Mixer — Design, Simulation & PCB Fabrication"
 excerpt: "Three-stage analogue audio mixer (BJT pre-amp, JFET summing stage, emitter-follower buffer) with JLCPCB-fabricated PCB — EE2300 Circuit Design, T3 2025."
 header:
-  teaser: preamp.jpg
+  teaser: preamp2.jpeg
 collection: portfolio
 ---
 
