@@ -1,5 +1,6 @@
 ---
 title: "Python Kivy Application — Books to Read 2.0"
+date: 2025-04-01
 excerpt: "OOP refactor of Books to Read into a Kivy GUI with dynamic book buttons, sort spinner, and JSON storage — CP1404 Programming II, T3 2025."
 header:
   teaser: books2.png

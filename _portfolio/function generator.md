@@ -1,5 +1,6 @@
 ---
 title: "Function Generator — Colpitts Oscillator"
+date: 2026-02-01
 excerpt: "5 MHz single-supply function generator with sine and square wave outputs, adjustable amplitude, and JLCPCB-fabricated PCB — EE3300 Electronic Applications, Block 2 2026."
 header:
   teaser: colpitts.jpeg
