@@ -9,6 +9,9 @@ collection: portfolio
 **Course:** CP1406 Web Design & Development — Trimester 2, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** HTML5, CSS3, JavaScript, Visual Studio Code
 
+![Homepage screenshot](homepage.png)
+![Homepage screenshot](booknow.png)
+
 ## Objective
 
 Design and implement a multi-page responsive website for a fictional dental practice, adapting layout and navigation across mobile, tablet, and desktop screen sizes.
