@@ -49,6 +49,6 @@ for full writeups:
 
 ## Get in Touch
 
-- Email: [quoc.huynh1@my.jcu.edu.au](mailto:quoc.huynh1@my.jcu.edu.au)
-- LinkedIn: [Quoc (Alex) Huynh](https://linkedin.com/in/quoc-huynh-1a6710397)
-- GitHub: [quochuynh1](https://github.com/quochuynh1)
+- Email: [quoc.huynh1@my.jcu.edu.au](mailto:quoc.huynh1@my.jcu.edu.au){:target="_blank"}
+- LinkedIn: [Quoc (Alex) Huynh](https://linkedin.com/in/quoc-huynh-1a6710397){:target="_blank"}
+- GitHub: [quochuynh1](https://github.com/quochuynh1){:target="_blank"}
