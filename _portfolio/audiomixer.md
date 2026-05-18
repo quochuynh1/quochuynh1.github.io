@@ -2,14 +2,14 @@
 title: "Additive Audio Mixer — Design, Simulation & PCB Fabrication"
 excerpt: "Three-stage analogue audio mixer (BJT pre-amp, JFET summing stage, emitter-follower buffer) with JLCPCB-fabricated PCB — EE2300 Circuit Design, T3 2025."
 header:
-  teaser: preamp2.jpeg
+  teaser: ![Teaser Photo](/images/audiomixer/preamp2.jpeg)
 collection: portfolio
 ---
 
 **Course:** EE2300 Circuit Design — Trimester 3, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** LTSpice, KiCad, MATLAB, oscilloscope, function generator, multimeter, breadboard, JLCPCB-fabricated PCB, AM4011 microphone, 2N5484 JFET, 2N2904 BJT, soldering iron
 
-![Cover Photo](/images/audiomixer/preamp2.jpeg)
+![Cover Photo](/images/audiomixer/preamp2.jpeg){: style="border: 2px solid #4a90a4; border-radius: 8px;"}
 
 ## Objective
 
