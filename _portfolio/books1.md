@@ -10,6 +10,8 @@ collection: portfolio
 **Tools & Equipment:** Python, PyCharm, GitHub, CSV file I/O  
 **Source Code:** [github.com/quochuynh1/a1-books](https://github.com/quochuynh1/a1-books){:target="_blank"}
 
+![Cover Photo](/images/books1.png){: style="border-radius: 8px"}
+
 ## Objective
 
 Design and implement a command-line book tracking application in Python that allows the user to load, display, add, and mark books as completed, with persistent CSV-based storage.
@@ -20,6 +22,15 @@ Design and implement a command-line book tracking application in Python that all
 - Implemented dynamic column-width formatting so book titles, authors, and page counts align neatly regardless of data length; sorted output alphabetically by author then title
 - Built robust input validation for all user entries — blank string rejection, integer range checking, and `IndexError` handling for invalid book selection
 - Managed persistent CSV storage — loading books on startup and saving all changes on quit; tracked read/unread status with a status flag and provided a running total of unread pages and books
+
+## Gallery 🖼️
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
+  <img src="/images/a1books/addbooks.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
+  <img src="/images/a1books/completebooks.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
+  <img src="/images/a1books/abc.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
+  <img src="/images/a1books/def.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
+</div>
+
 
 ## Outcome
 
