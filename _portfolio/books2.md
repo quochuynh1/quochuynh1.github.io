@@ -8,7 +8,7 @@ collection: portfolio
 
 **Course:** CP1404 Programming II — Trimester 3, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** Python, Kivy, PyCharm, GitHub, JSON file I/O  
-**Source Code:** [github.com/quochuynh1/a2-books](https://github.com/quochuynh1/a2-books)
+**Source Code:** [github.com/quochuynh1/a2-books](https://github.com/quochuynh1/a2-books){:target="_blank"}
 
 ## Objective
 
