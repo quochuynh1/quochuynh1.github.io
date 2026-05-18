@@ -1,3 +1,7 @@
 .page__footer {
   position: static !important;
 }
+
+.masthead__menu-item a {
+  pointer-events: auto !important;
+}
