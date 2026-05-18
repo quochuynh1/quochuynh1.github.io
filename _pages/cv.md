@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/Resume_Quoc_Huynh.pdf) 
+
 ## Education
 
 **Bachelor of Engineering (Honours) — Electrical & Electronic Engineering**
