@@ -25,12 +25,28 @@ Design and implement a command-line book tracking application in Python that all
 
 ## Gallery 🖼️
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
-  <img src="/images/a1books/addbooks.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
-  <img src="/images/a1books/completebooks.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
-  <img src="/images/a1books/abc.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
-  <img src="/images/a1books/def.png" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover;">
-</div>
 
+  <figure style="margin: 0;">
+    <img src="/images/a1books/addbooks.png" alt="Adding a book" style="width: 100%; border-radius: 6px;">
+    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Adding a new book</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/images/a1books/completebooks.png" alt="Completing a book" style="width: 100%; border-radius: 6px;">
+    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Marking a book as completed</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/images/a1books/abc.png" alt="Input validation" style="width: 100%; border-radius: 6px;">
+    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Input validation in action</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/images/a1books/def.png" alt="Saving and quitting" style="width: 100%; border-radius: 6px;">
+    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Saving to CSV on quit</figcaption>
+  </figure>
+
+</div>
 
 ## Outcome
 
