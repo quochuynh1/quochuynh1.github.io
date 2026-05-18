@@ -24,37 +24,11 @@ Design and implement a command-line book tracking application in Python that all
 - Managed persistent CSV storage — loading books on startup and saving all changes on quit; tracked read/unread status with a status flag and provided a running total of unread pages and books
 
 ## Features️
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
 
-  <figure style="margin: 0;">
-    <div style="height: 200px; overflow: hidden; border-radius: 6px;">
-      <img src="/images/a1books/addbooks.png" alt="Adding a book" style="width: 100%; height: 100%; object-fit: cover; object-position: top;">
-    </div>
-    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Adding a new book</figcaption>
-  </figure>
-
-  <figure style="margin: 0;">
-    <div style="height: 200px; overflow: hidden; border-radius: 6px;">
-      <img src="/images/a1books/completebooks.png" alt="Completing a book" style="width: 100%; height: 100%; object-fit: cover; object-position: top;">
-    </div>
-    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Marking a book as completed</figcaption>
-  </figure>
-
-  <figure style="margin: 0;">
-    <div style="height: 200px; overflow: hidden; border-radius: 6px;">
-      <img src="/images/a1books/abc.png" alt="Input validation" style="width: 100%; height: 100%; object-fit: cover; object-position: top;">
-    </div>
-    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Input validation in action</figcaption>
-  </figure>
-
-  <figure style="margin: 0;">
-    <div style="height: 200px; overflow: hidden; border-radius: 6px;">
-      <img src="/images/a1books/def.png" alt="Saving and quitting" style="width: 100%; height: 100%; object-fit: cover; object-position: top;">
-    </div>
-    <figcaption style="font-size: 0.75rem; color: #888; margin-top: 4px; text-align: center;">Saving to CSV on quit</figcaption>
-  </figure>
-
-</div>
+![Feature](/images/a1books/addbooks.png){: style="border-radius: 8px"}<br>
+![Feature](/images/a1books/completebooks.png){: style="border-radius: 8px"}<br>
+![Feature](/images/a1books/abc.png){: style="border-radius: 8px"}<br>
+![Feature](/images/a1books/def.png){: style="border-radius: 8px"}<br>
 
 ## Outcome
 
