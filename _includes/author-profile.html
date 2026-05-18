@@ -7,7 +7,7 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    <a href="{{ '/' | relative_url }}">
+    <a href="{{ '/' | relative_url }}" style="display: block">
       {% if author.avatar contains "://" %}
         <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" />
       {% else %}
