@@ -25,10 +25,30 @@ Design and implement a command-line book tracking application in Python that all
 
 ## Features️
 
-![Feature](/images/a1books/addbooks.png){: style="border-radius: 8px"}<br>
-![Feature](/images/a1books/completebooks.png){: style="border-radius: 8px"}<br>
-![Feature](/images/a1books/abc.png){: style="border-radius: 8px"}<br>
-![Feature](/images/a1books/def.png){: style="border-radius: 8px"}<br>
+<figure>
+  <img src="/images/a1books.png" style="border-radius: 8px;">
+  <figcaption>Display books</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/a1books/addbooks.png" style="border-radius: 8px;">
+  <figcaption>Adding a new book</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/a1books/completebooks.png" style="border-radius: 8px;">
+  <figcaption>Marking a book as completed</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/a1books/abc.png" style="border-radius: 8px;">
+  <figcaption>Input validation in action</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/a1books/def.png" style="border-radius: 8px;">
+  <figcaption>Saving to CSV on quit</figcaption>
+</figure>
 
 ## Outcome
 
