@@ -9,7 +9,7 @@ collection: portfolio
 **Course:** EE2300 Circuit Design — Trimester 3, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** LTSpice, KiCad, MATLAB, oscilloscope, function generator, multimeter, breadboard, JLCPCB-fabricated PCB, AM4011 microphone, 2N5484 JFET, 2N2904 BJT, soldering iron
 
-![Cover Photo](/images/preamp2.jpeg){border-radius: 8px;"}
+![Cover Photo](/images/preamp2.jpeg){: style="border-radius: 8px"}
 
 ## Objective
 
