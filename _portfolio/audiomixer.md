@@ -27,8 +27,8 @@ Design and implement a three-stage additive audio mixer capable of combining a m
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
   <img src="/images/audiomixer/IMG_7840.jpg" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
   <img src="/images/audiomixer/IMG_7707.jpg" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/audiomixer/IMG_7728.jpg" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
   <img src="/images/audiomixer/Screenshot%202025-11-26%20103726.png" alt="LTSpice simulation" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
+  <img src="/images/audiomixer/IMG_7728.jpg" alt="Gallery photo" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
   <img src="/images/audiomixer/Screenshot%202025-11-26%20103950.png" alt="LTSpice simulation" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
   <img src="/images/audiomixer/Screenshot%202025-11-28%20184633.png" alt="KiCad PCB layout" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
 </div>
