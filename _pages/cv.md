@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/Resume_Quoc_Huynh.pdf) 
+[Download CV (PDF)](/Resume_Quoc_Huynh.pdf){:target="_blank"} 
 
 ## Education
 
