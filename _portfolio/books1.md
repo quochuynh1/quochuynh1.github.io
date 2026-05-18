@@ -8,7 +8,7 @@ collection: portfolio
 
 **Course:** CP1404 Programming II — Trimester 3, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** Python, PyCharm, GitHub, CSV file I/O  
-**Source Code:** [github.com/quochuynh1/a1-books](https://github.com/quochuynh1/a1-books)
+**Source Code:** [github.com/quochuynh1/a1-books](https://github.com/quochuynh1/a1-books){:target="_blank"}
 
 ## Objective
 
