@@ -2,7 +2,7 @@
 title: "Responsive Dental Practice Website — 100SMILES Dental Care"
 excerpt: "Multi-page responsive website with hamburger nav, mobile/tablet/desktop layouts, and semantic HTML — CP1406 Web Design, Tri 2 2025."
 header:
-  teaser: /images/website/website.png
+  teaser: website.png
 collection: portfolio
 ---
 
@@ -26,7 +26,7 @@ Design and implement a multi-page responsive website for a fictional dental prac
 
 ![Homepage screenshot](/images/website/homepage.png)
 ![Homepage screenshot](/images/website/booknow.png)
-![Website screenshot](/images/website/website.png)
+![Website screenshot](/images/website.png)
 
 ## Outcome
 
