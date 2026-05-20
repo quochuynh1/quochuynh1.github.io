@@ -62,12 +62,13 @@ Designed and evaluated three square wave generator approaches (differential pair
 Integrated all five stages into a complete KiCad schematic and PCB layout with a 3D model produced prior to JLCPCB fabrication.
 
 <!-- IMAGE: From slide 9 — the KiCad PCB editor layout and the PCB 3D model render side by side -->
-![KiCad PCB Layout and 3D Model](/images/functiongenerator/kicad.png){: style="border-radius: 8px"}
+![KiCad PCB Layout and 3D Model]
 
 ## Outcome
 
 Delivered a fully functional 5 MHz function generator.
 
 <!-- IMAGE: From slide 9 — the final breadboard assembly photo (colour-coded by stage) and the oscilloscope showing the clean 5.000 MHz sine wave output -->
-![Final Assembly and Output](/images/functiongenerator/outcome.png){: style="border-radius: 8px"}
+![Final Assembly and Output](/images/functiongenerator/outcome.png){: style="border-radius: 8px"}<br>
+
 Developed strong skills in RF-range analogue circuit design, iterative simulation-driven design, and component selection at high frequencies. Gained experience critically comparing circuit topologies and justifying design decisions based on simulation and measured performance.
