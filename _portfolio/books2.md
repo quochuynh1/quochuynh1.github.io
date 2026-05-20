@@ -25,9 +25,18 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
 
 ## 1. Book Tracking
 
-| Default | All Completed | None Completed |
-|:---:|:---:|:---:|
-| <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/books2.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/allbookscomplete.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/nobookscomplete.png" width="160"></div> |
+<table>
+  <tr>
+    <th>Default</th>
+    <th>All Completed</th>
+    <th>None Completed</th>
+  </tr>
+  <tr>
+    <td><img src="/images/books2.png" width="160"></td>
+    <td><img src="/images/a2books/allbookscomplete.png" width="160"></td>
+    <td><img src="/images/a2books/nobookscomplete.png" width="160"></td>
+  </tr>
+</table>
 
 The app displays a running total of unread pages in the header. Books marked as completed appear in a darker tile colour and are excluded from the page count. When all books are completed the total drops to 0.
 
@@ -35,9 +44,32 @@ The app displays a running total of unread pages in the header. Books marked as 
 
 ## 2. Dynamic Sorting
 
-|                                                       Dropdown                                                       | By Pages | By Title | By Author | By Completed |
-|:--------------------------------------------------------------------------------------------------------------------:|:---:|:---:|:---:|:---:|
-| <div style="width: 75px;height:200px;overflow:hidden;"><img src="/images/a2books/dynamicsort.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/sortbypages.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/sortbytitle.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/sortbyauthor.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/sortbycompleted.png" width="160"></div> |
+<table>
+  <tr>
+    <td rowspan="2" style="text-align:center;vertical-align:middle;">
+      <b>Dropdown</b><br>
+      <img src="/images/a2books/dynamicsort.png" width="160">
+    </td>
+    <td style="text-align:center;">
+      <b>By Pages</b><br>
+      <img src="/images/a2books/sortbypages.png" width="160">
+    </td>
+    <td style="text-align:center;">
+      <b>By Title</b><br>
+      <img src="/images/a2books/sortbytitle.png" width="160">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <b>By Author</b><br>
+      <img src="/images/a2books/sortbyauthor.png" width="160">
+    </td>
+    <td style="text-align:center;">
+      <b>By Completed</b><br>
+      <img src="/images/a2books/sortbycompleted.png" width="160">
+    </td>
+  </tr>
+</table>
 
 Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and Completed. This dropdown allows the user to reorder the book list dynamically. This was achieved by using the `Spinner` widget in Kivy.
 
@@ -45,9 +77,14 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
 
 ## 3. Adding a Book
 
-| Book Added |
-|:---:|
-| <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/addbooks.png" width="160"></div> |
+<table>
+  <tr>
+    <th>Book Added</th>
+  </tr>
+  <tr>
+    <td><img src="/images/a2books/addbooks.png" width="160"></td>
+  </tr>
+</table>
 
 After filling in the Title, Author, and Pages fields and clicking "Add Book", the book appears in the list and the status bar confirms the addition. The page total updates automatically.
 
@@ -55,9 +92,16 @@ After filling in the Title, Author, and Pages fields and clicking "Add Book", th
 
 ## 4. Input Validation
 
-| Incomplete Form | Invalid Page Number |
-|:---:|:---:|
-| <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/completeallfields.png" width="160"></div> | <div style="width:160px;height:200px;overflow:hidden;"><img src="/images/a2books/invalidpageno.png" width="160"></div> |
+<table>
+  <tr>
+    <th>Incomplete Form</th>
+    <th>Invalid Page Number</th>
+  </tr>
+  <tr>
+    <td><img src="/images/a2books/completeallfields.png" width="160"></td>
+    <td><img src="/images/a2books/invalidpageno.png" width="160"></td>
+  </tr>
+</table>
 
 The app validates input before adding a book. If any field is empty the status bar displays "Please complete all fields." If the Pages field contains non-numeric text the status bar displays "Please enter a valid number." The form is not submitted until both conditions are met.
 
