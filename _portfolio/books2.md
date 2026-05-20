@@ -27,7 +27,7 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
 
 |               Default                |                     All Completed                      |                     No Books                     |
 |:------------------------------------:|:------------------------------------------------------:|:------------------------------------------------:|
-| ![Default state](/images/books2.png) | ![All completed](/images/a2books/allbookscomplete.png) | ![No books](/images/a2books/nobookscomplete.png) |
+| <img src="/images/books2.png" height="200"> | <img src="/images/a2books/allbookscomplete.png" height="200"> | <img src="/images/a2books/nobookscomplete.png" height="200"> |
 
 The app displays a running total of unread pages in the header. Books marked as completed appear in a darker tile colour and are excluded from the page count. When all books are completed the total drops to 0.
 
@@ -35,9 +35,9 @@ The app displays a running total of unread pages in the header. Books marked as 
 
 ## 2. Dynamic Sorting
 
-| Dropdown | By Pages | By Title | By Author | By Completed |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Dropdown](/images/a2books/dynamicsort.png) | ![By Pages](/images/a2books/sortbypages.png) | ![By Title](/images/a2books/sortbytitle.png) | ![By Author](/images/a2books/sortbyauthor.png) | ![By Completed](/images/a2books/sortbycompleted.png) |
+|                         Dropdown                         |                               By Pages                               |                               By Title                               |                               By Author                               |                              By Completed                               |
+|:--------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+| <img src="/images/a2books/dynamicsort.png" height="200"> | <img src="/images/a2books/sortbypages.png" height="200"> | <img src="/images/a2books/sortbytitle.png" height="200"> | <img src="/images/a2books/sortbyauthor.png" height="200"> |      <img src="/images/a2books/sortbycompleted.png" height="200">       |
 
 Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and Completed. This dropdown allows the user to reorder the book list dynamically. This was achieved by using the `Spinner` widget in Kivy.
 
@@ -47,7 +47,7 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
 
 | Form filled | Book added |
 |:---:|:---:|
-| ![Form filled](/images/a2books/formfilled.png) | ![Book added](/images/a2books/addbook.png) |
+| <img src="/images/a2books/formfilled.png" height="200"> | <img src="/images/a2books/addbook.png" height="200"> |
 
 After filling in the Title, Author, and Pages fields and clicking "Add Book", the book appears in the list and the status bar confirms the addition. The page total updates automatically.
 
@@ -57,7 +57,7 @@ After filling in the Title, Author, and Pages fields and clicking "Add Book", th
 
 | Incomplete form | Invalid page number |
 |:---:|:---:|
-| ![Incomplete form error](/images/a2books/completeallfields.png) | ![Invalid page number error](/images/a2books/invalidpageno.png) |
+| <img src="/images/a2books/completeallfields.png" height="200"> | <img src="/images/a2books/invalidpageno.png" height="200"> |
 
 The app validates input before adding a book. If any field is empty the status bar displays "Please complete all fields." If the Pages field contains non-numeric text the status bar displays "Please enter a valid number." The form is not submitted until both conditions are met.
 
