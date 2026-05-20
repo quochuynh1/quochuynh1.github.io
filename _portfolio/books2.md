@@ -29,15 +29,15 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
   <tr>
     <td style="text-align:center;">
       <b>Default</b><br>
-      <img src="/images/books2.png" width="160">
+      <img src="/images/books2.png" width="240">
     </td>
     <td style="text-align:center;">
       <b>All Completed</b><br>
-      <img src="/images/a2books/allbookscomplete.png" width="160">
+      <img src="/images/a2books/allbookscomplete.png" width="240">
     </td>
     <td style="text-align:center;">
       <b>None Completed</b><br>
-      <img src="/images/a2books/nobookscomplete.png" width="160">
+      <img src="/images/a2books/nobookscomplete.png" width="240">
     </td>
   </tr>
 </table>
@@ -52,25 +52,25 @@ The app displays a running total of unread pages in the header. Books marked as 
   <tr>
     <td rowspan="2" style="text-align:center;vertical-align:middle;">
       <b>Dropdown</b><br>
-      <img src="/images/a2books/dynamicsort.png" width="160">
+      <img src="/images/a2books/dynamicsort.png" width="240">
     </td>
     <td style="text-align:center;">
       <b>By Pages</b><br>
-      <img src="/images/a2books/sortbypages.png" width="160">
+      <img src="/images/a2books/sortbypages.png" width="240">
     </td>
     <td style="text-align:center;">
       <b>By Title</b><br>
-      <img src="/images/a2books/sortbytitle.png" width="160">
+      <img src="/images/a2books/sortbytitle.png" width="240">
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <b>By Author</b><br>
-      <img src="/images/a2books/sortbyauthor.png" width="160">
+      <img src="/images/a2books/sortbyauthor.png" width="240">
     </td>
     <td style="text-align:center;">
       <b>By Completed</b><br>
-      <img src="/images/a2books/sortbycompleted.png" width="160">
+      <img src="/images/a2books/sortbycompleted.png" width="240">
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
   <tr>
     <td style="text-align:center;">
       <b>Book Added</b><br>
-      <img src="/images/a2books/addbooks.png" width="160">
+      <img src="/images/a2books/addbooks.png" width="240">
     </td>
   </tr>
 </table>
@@ -100,11 +100,11 @@ After filling in the Title, Author, and Pages fields and clicking "Add Book", th
   <tr>
     <td style="text-align:center;">
       <b>Incomplete Form</b><br>
-      <img src="/images/a2books/completeallfields.png" width="160">
+      <img src="/images/a2books/completeallfields.png" width="240">
     </td>
     <td style="text-align:center;">
       <b>Invalid Page Number</b><br>
-      <img src="/images/a2books/invalidpageno.png" width="160">
+      <img src="/images/a2books/invalidpageno.png" width="240">
     </td>
   </tr>
 </table>
