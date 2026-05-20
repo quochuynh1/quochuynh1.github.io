@@ -49,18 +49,16 @@ The app displays a running total of unread pages in the header. Books marked as 
 <div markdown="0">
 <table>
   <tr>
-    <th style="text-align:center">Dropdown</th>
-    <th style="text-align:center">By Pages</th>
-    <th style="text-align:center">By Title</th>
-    <th style="text-align:center">By Author</th>
-    <th style="text-align:center">By Completed</th>
+    <td rowspan="2" style="text-align:center; vertical-align:middle; padding-right:16px">
+      <strong>Dropdown</strong><br><br>
+      <img src="/images/a2books/dynamicsort.png" width="100" style="object-fit:contain">
+    </td>
+    <td style="text-align:center"><strong>By Pages</strong><br><img src="/images/a2books/sortbypages.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><strong>By Title</strong><br><img src="/images/a2books/sortbytitle.png" width="150" style="object-fit:contain"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="/images/a2books/dynamicsort.png" width="75" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/sortbypages.png" width="150" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/sortbytitle.png" width="150" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/sortbyauthor.png" width="150" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/sortbycompleted.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><strong>By Author</strong><br><img src="/images/a2books/sortbyauthor.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><strong>By Completed</strong><br><img src="/images/a2books/sortbycompleted.png" width="150" style="object-fit:contain"></td>
   </tr>
 </table>
 </div>
@@ -71,18 +69,16 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
 
 ## 3. Adding a Book
 
-<div markdown="0">
 <table>
   <tr>
     <th style="text-align:center">Form filled</th>
     <th style="text-align:center">Book added</th>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/formfilled.png" height="250" style="object-fit:contain"></td>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/addbook.png" height="300" style="object-fit:contain"></td>
+    <td><img src="/images/a2books/formfilled.png" height="200" style="object-fit:contain"></td>
+    <td><img src="/images/a2books/addbook.png" height="200" style="object-fit:contain"></td>
   </tr>
 </table>
-</div>
 
 After filling in the Title, Author, and Pages fields and clicking "Add Book", the book appears in the list and the status bar confirms the addition. The page total updates automatically.
 
