@@ -21,6 +21,55 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
 - Built a Kivy GUI with dynamically generated book buttons — colour-coded cyan for unread and grey for completed — that toggle read/unread status on press and update a live page count at the top of the screen
 - Implemented a sort spinner allowing the user to sort books by title, author, pages, or completion status in real time, and added input validation for the add-book fields with user feedback via a status label
 
+# Books To Read 2.0 — Feature Screenshots
+
+## 1. Book List States
+
+|               Default                |                     All Completed                      |                     No Books                     |
+|:------------------------------------:|:------------------------------------------------------:|:------------------------------------------------:|
+| ![Default state](/images/books2.png) | ![All completed](/images/a2books/allbookscomplete.png) | ![No books](/images/a2books/nobookscomplete.png) |
+
+The app displays a running total of unread pages in the header. Books marked as completed appear in a darker tile colour and are excluded from the page count. When all books are completed the total drops to 0.
+
+---
+
+## 2. Dynamic Sorting
+
+| Dropdown | By Pages | By Title | By Author | By Completed |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Dropdown](/images/a2books/dynamicsort.png) | ![By Pages](/images/a2books/sortbypages.png) | ![By Title](/images/a2books/sortbytitle.png) | ![By Author](/images/a2books/sortbyauthor.png) | ![By Completed](/images/a2books/sortbycompleted.png) |
+
+Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and Completed. This dropdown allows the user to reorder the book list dynamically. This was achieved by using the `Spinner` widget in Kivy.
+
+---
+
+## 3. Adding a Book
+
+| Form filled | Book added |
+|:---:|:---:|
+| ![Form filled](/images/a2books/formfilled.png) | ![Book added](/images/a2books/addbook.png) |
+
+After filling in the Title, Author, and Pages fields and clicking "Add Book", the book appears in the list and the status bar confirms the addition. The page total updates automatically.
+
+---
+
+## 4. Input Validation
+
+| Incomplete form | Invalid page number |
+|:---:|:---:|
+| ![Incomplete form error](/images/a2books/completeallfields.png) | ![Invalid page number error](/images/a2books/invalidpageno.png) |
+
+The app validates input before adding a book. If any field is empty the status bar displays "Please complete all fields." If the Pages field contains non-numeric text the status bar displays "Please enter a valid number." The form is not submitted until both conditions are met.
+
+---
+
+## Notes
+
+- Completed books are shown in a **darker tile colour** and labelled `(completed)` — they are excluded from the pages-to-read total.
+- The **status bar** (bottom strip) is the primary feedback mechanism for both success messages and validation errors.
+- The **page total** in the header updates automatically whenever a book is added or marked complete.
+
+
 ## Outcome
 
 Delivered a fully functional GUI application demonstrating end-to-end OOP design and Kivy UI development. Gained hands-on experience with class design, separation of concerns between data model and UI, event-driven programming, and JSON serialisation.
