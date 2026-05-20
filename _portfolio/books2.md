@@ -56,11 +56,11 @@ The app displays a running total of unread pages in the header. Books marked as 
     <th style="text-align:center">By Completed</th>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/dynamicsort.png" height="200" style="object-fit:contain"></td>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/sortbypages.png" height="200" style="object-fit:contain"></td>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/sortbytitle.png" height="200" style="object-fit:contain"></td>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/sortbyauthor.png" height="200" style="object-fit:contain"></td>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/sortbycompleted.png" height="200" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/dynamicsort.png" width="75" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/sortbypages.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/sortbytitle.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/sortbyauthor.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/sortbycompleted.png" width="150" style="object-fit:contain"></td>
   </tr>
 </table>
 </div>
@@ -78,7 +78,7 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
     <th style="text-align:center">Book added</th>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/formfilled.png" height="300" style="object-fit:contain"></td>
+    <td style="text-align:center; vertical-align:top"><img src="/images/a2books/formfilled.png" height="250" style="object-fit:contain"></td>
     <td style="text-align:center; vertical-align:top"><img src="/images/a2books/addbook.png" height="300" style="object-fit:contain"></td>
   </tr>
 </table>
