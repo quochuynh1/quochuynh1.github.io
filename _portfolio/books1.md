@@ -23,7 +23,7 @@ Design and implement a command-line book tracking application in Python that all
 - Built robust input validation for all user entries — blank string rejection, integer range checking, and `IndexError` handling for invalid book selection
 - Managed persistent CSV storage — loading books on startup and saving all changes on quit; tracked read/unread status with a status flag and provided a running total of unread pages and books
 
-## Features️
+## Books To Read 1.0 — Feature Screenshots
 
 ![Cover Photo](/images/books1.png){: style="border-radius: 8px"}<br>
 Display Books<br>
