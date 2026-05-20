@@ -9,6 +9,8 @@ collection: portfolio
 **Course:** EE3300 Electronic Applications — Block 2, 2026 — James Cook University, Cairns  
 **Tools & Equipment:** LTSpice, KiCad, oscilloscope, function generator, multimeter, breadboard, various op-amps, NPN/PNP BJTs
 
+![Cover Photo](/images/colpitts.jpeg){: style="border-radius: 8px"}
+
 ## Objective
 
 Design a 5 MHz function generator with single-supply functionality, minimal harmonic distortion, voltage amplitude control, and square wave switching.
