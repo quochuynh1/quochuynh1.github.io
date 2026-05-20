@@ -27,14 +27,18 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
 
 <table>
   <tr>
-    <th>Default</th>
-    <th>All Completed</th>
-    <th>None Completed</th>
-  </tr>
-  <tr>
-    <td><img src="/images/books2.png" width="160"></td>
-    <td><img src="/images/a2books/allbookscomplete.png" width="160"></td>
-    <td><img src="/images/a2books/nobookscomplete.png" width="160"></td>
+    <td style="text-align:center;">
+      <b>Default</b><br>
+      <img src="/images/books2.png" width="160">
+    </td>
+    <td style="text-align:center;">
+      <b>All Completed</b><br>
+      <img src="/images/a2books/allbookscomplete.png" width="160">
+    </td>
+    <td style="text-align:center;">
+      <b>None Completed</b><br>
+      <img src="/images/a2books/nobookscomplete.png" width="160">
+    </td>
   </tr>
 </table>
 
@@ -79,10 +83,10 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
 
 <table>
   <tr>
-    <th>Book Added</th>
-  </tr>
-  <tr>
-    <td><img src="/images/a2books/addbooks.png" width="160"></td>
+    <td style="text-align:center;">
+      <b>Book Added</b><br>
+      <img src="/images/a2books/addbooks.png" width="160">
+    </td>
   </tr>
 </table>
 
@@ -94,12 +98,14 @@ After filling in the Title, Author, and Pages fields and clicking "Add Book", th
 
 <table>
   <tr>
-    <th>Incomplete Form</th>
-    <th>Invalid Page Number</th>
-  </tr>
-  <tr>
-    <td><img src="/images/a2books/completeallfields.png" width="160"></td>
-    <td><img src="/images/a2books/invalidpageno.png" width="160"></td>
+    <td style="text-align:center;">
+      <b>Incomplete Form</b><br>
+      <img src="/images/a2books/completeallfields.png" width="160">
+    </td>
+    <td style="text-align:center;">
+      <b>Invalid Page Number</b><br>
+      <img src="/images/a2books/invalidpageno.png" width="160">
+    </td>
   </tr>
 </table>
 
