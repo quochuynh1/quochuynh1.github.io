@@ -33,9 +33,9 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
     <th style="text-align:center">None Completed</th>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="/images/books2.png" width="250" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/allbookscomplete.png" width="250" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/nobookscomplete.png" width="250" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/books2.png" height="200" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/allbookscomplete.png" height="200" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/nobookscomplete.png" height="200" style="object-fit:contain"></td>
   </tr>
 </table>
 </div>
@@ -75,7 +75,7 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
     <th style="text-align:center">Book added</th>
   </tr>
   <tr>
-    <td><img src="/images/a2books/formfilled.png" height="200" style="object-fit:contain"></td>
+    <td><img src="/images/a2books/formfilled.png" height="150" style="object-fit:contain"></td>
     <td><img src="/images/a2books/addbook.png" height="200" style="object-fit:contain"></td>
   </tr>
 </table>
@@ -93,8 +93,8 @@ After filling in the Title, Author, and Pages fields and clicking "Add Book", th
     <th style="text-align:center">Invalid page number</th>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="/images/a2books/completeallfields.png" width="350" style="object-fit:contain"></td>
-    <td style="text-align:center"><img src="/images/a2books/invalidpageno.png" width="350" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/completeallfields.png" height="200" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/invalidpageno.png" height="200" style="object-fit:contain"></td>
   </tr>
 </table>
 </div>
