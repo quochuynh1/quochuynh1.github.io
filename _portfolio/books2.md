@@ -23,6 +23,8 @@ Extend the Books to Read 1.0 console program into a Kivy-based GUI application u
 
 # Books To Read 2.0 — Feature Screenshots
 
+## 1. Book Tracking
+
 |               Default                |                     All Completed                      |                        None Completed                        |
 |:------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------:|
 | <img src="/images/books2.png" height="200"> | <img src="/images/a2books/allbookscomplete.png" height="200"> | <img src="/images/a2books/nobookscomplete.png" height="200"> |
@@ -43,7 +45,7 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
 
 Book added |
 |:---:|
-<img src="/images/a2books/addbook.png" height="200"> |
+<img src="/images/a2books/addbooks.png" height="200"> |
 
 After filling in the Title, Author, and Pages fields and clicking "Add Book", the book appears in the list and the status bar confirms the addition. The page total updates automatically.
 
