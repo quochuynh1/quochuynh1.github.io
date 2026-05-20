@@ -41,9 +41,9 @@ Clicking "Sort by" reveals the available sort options: Pages, Title, Author, and
 
 ## 3. Adding a Book
 
-| Form filled | Book added |
-|:---:|:---:|
-| <img src="/images/a2books/formfilled.png" height="200"> | <img src="/images/a2books/addbook.png" height="200"> |
+Book added |
+|:---:|
+<img src="/images/a2books/addbook.png" height="200"> |
 
 After filling in the Title, Author, and Pages fields and clicking "Add Book", the book appears in the list and the status bar confirms the addition. The page total updates automatically.
 
