@@ -70,5 +70,4 @@ Delivered a fully functional 5 MHz function generator.
 
 <!-- IMAGE: From slide 9 — the final breadboard assembly photo (colour-coded by stage) and the oscilloscope showing the clean 5.000 MHz sine wave output -->
 ![Final Assembly and Output](/images/functiongenerator/outcome.png){: style="border-radius: 8px"}
-
 Developed strong skills in RF-range analogue circuit design, iterative simulation-driven design, and component selection at high frequencies. Gained experience critically comparing circuit topologies and justifying design decisions based on simulation and measured performance.
