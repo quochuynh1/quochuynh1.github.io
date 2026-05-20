@@ -56,7 +56,7 @@ The app displays a running total of unread pages in the header. Books marked as 
     <th style="text-align:center">By Completed</th>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="/images/a2books/dynamicsort.png" width="150" style="object-fit:contain"></td>
+    <td style="text-align:center"><img src="/images/a2books/dynamicsort.png" height="150" style="object-fit:contain"></td>
     <td style="text-align:center"><img src="/images/a2books/sortbypages.png" width="150" style="object-fit:contain"></td>
     <td style="text-align:center"><img src="/images/a2books/sortbytitle.png" width="150" style="object-fit:contain"></td>
     <td style="text-align:center"><img src="/images/a2books/sortbyauthor.png" width="150" style="object-fit:contain"></td>
