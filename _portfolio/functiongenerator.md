@@ -62,7 +62,7 @@ Designed and evaluated three square wave generator approaches (differential pair
 Integrated all five stages into a complete KiCad schematic and PCB layout with a 3D model produced prior to JLCPCB fabrication.
 
 <!-- IMAGE: From slide 9 — the KiCad PCB editor layout and the PCB 3D model render side by side -->
-![KiCad PCB Layout and 3D Model]
+![KiCad PCB Layout and 3D Model](/images/functiongenerator/kicad.png){: style="border-radius: 8px"}<br>
 
 ## Outcome
 
