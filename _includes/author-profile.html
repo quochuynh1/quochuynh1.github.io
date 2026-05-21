@@ -180,4 +180,15 @@
       {% endif %}      
     </ul>
   </div>
+
+  <script>
+  document.addEventListener("click", function(e) {
+    if (!e.target.closest(".author__urls-wrapper")) {
+      var urls = document.querySelector(".author__urls");
+      var btn = document.querySelector(".author__urls-wrapper button");
+      if (urls) urls.classList.remove("is--visible");
+      if (btn) btn.classList.remove("open");
+    }
+  });
+</script>
 </div>
