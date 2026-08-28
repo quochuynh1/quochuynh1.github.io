@@ -28,11 +28,10 @@ Design and build an embedded system for Project 12 that monitors occupancy and e
 ## Gallery 🖼️
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
-  <img src="/images/comfortmonitor/batteryschematic.png" alt="Sensor cluster wired to the Pico" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/finalschematic.png" alt="Doorframe occupancy sensor PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/finalpcb.png" alt="Main PCB and power circuit" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/jlcpcb.png" alt="Main PCB and power circuit" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-
+  <a href="/images/comfortmonitor/batteryschematic.png"><img src="/images/comfortmonitor/batteryschematic.png" alt="Battery power circuit schematic" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/comfortmonitor/finalschematic.png"><img src="/images/comfortmonitor/finalschematic.png" alt="Final full system schematic" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/comfortmonitor/finalpcb.png"><img src="/images/comfortmonitor/finalpcb.png" alt="Final assembled PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/comfortmonitor/jlcpcb.png"><img src="/images/comfortmonitor/jlcpcb.png" alt="JLCPCB fabrication layout" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
 </div>
 
 ## Outcome
