@@ -29,7 +29,7 @@ Design and implement a complete software control system for a 2-axis CNC milling
   <a href="/images/millingmachine/steppermotors.png"><img src="/images/millingmachine/steppermotors.png" alt="Wiring of stepper motors and driver shield" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
   <a href="/images/millingmachine/cncshield.png"><img src="/images/millingmachine/cncshield.png" alt="CNC motor driver shield" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
   <a href="/images/millingmachine/rpipico.png"><img src="/images/millingmachine/rpipico.png" alt="Raspberry Pi Pico controller" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
-  <a href="/images/millingmachine/board.png"><img src="/images/millingmachine/examplecode.png" alt="Example control code" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/board.png"><img src="/images/millingmachine/board.png" alt="Example control code" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
   <a href="/images/millingmachine/examplecode.png"><img src="/images/millingmachine/examplecode.png" alt="Example control code" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
 </div>
 
