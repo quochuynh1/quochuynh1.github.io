@@ -38,6 +38,9 @@ and grow within a capable engineering team.
 A snapshot of my university projects — see the [Portfolio](/portfolio/) 
 for full writeups:
 
+- **Lecture Theatre Occupancy and Comfort Monitor** — RP2040-based system 
+  combining VOC, temperature/humidity, light, and IR beam-break sensing with 
+  BLE data transmission to a live web dashboard
 - **5MHz Function Generator** — Colpitts oscillator with LC filtering, 
   adjustable amplitude control, and KiCad PCB fabricated via JLCPCB
 - **Additive Audio Mixer** — Three-stage BJT/JFET design, simulated in 
