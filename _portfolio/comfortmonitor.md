@@ -2,7 +2,7 @@
 title: "Lecture Theatre Occupancy and Comfort Monitor"
 excerpt: "RP2040-based occupancy and comfort monitoring system with VOC, temperature/humidity, light, and IR beam-break sensing, BLE data transmission, and a live web dashboard — CC3501 Embedded Systems, Assignment 2 (Project 12), 2026."
 header:
-  teaser: comfortmonitor.jpeg
+  teaser: comfortmonitor.png
 collection: portfolio
 ---
 
@@ -31,6 +31,7 @@ Design and build an embedded system for Project 12 that monitors occupancy and e
   <img src="/images/comfortmonitor/batteryschematic.png" alt="Sensor cluster wired to the Pico" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
   <img src="/images/comfortmonitor/finalschematic.png" alt="Doorframe occupancy sensor PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
   <img src="/images/comfortmonitor/finalpcb.png" alt="Main PCB and power circuit" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
+  <img src="/images/comfortmonitor/jlcpcb.png" alt="Main PCB and power circuit" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
 
 </div>
 
