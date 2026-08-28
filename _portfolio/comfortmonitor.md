@@ -10,7 +10,7 @@ collection: portfolio
 **Team:** Group project with Elijah and Joe; supervised by Luke and Laurence  
 **Tools & Equipment:** KiCad, JLCPCB, Raspberry Pi Pico (RP2040, C/C++, Pico SDK), oscilloscope, multimeter, soldering station
 
-![Cover Photo](/images/comfortmonitor.jpeg){: style="border-radius: 8px"}
+![Cover Photo](/images/comfortmonitor/comfortcover.png){: style="border-radius: 8px"}
 
 ## Objective
 
@@ -28,12 +28,10 @@ Design and build an embedded system for Project 12 that monitors occupancy and e
 ## Gallery 🖼️
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
-  <img src="/images/comfortmonitor/sensors.jpg" alt="Sensor cluster wired to the Pico" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/occupancy.jpg" alt="Doorframe occupancy sensor PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/pcb.jpg" alt="Main PCB and power circuit" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/debugging.jpg" alt="PCB fault-finding" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/display.jpg" alt="TFT display output" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-  <img src="/images/comfortmonitor/dashboard.jpg" alt="Web dashboard" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
+  <img src="/images/comfortmonitor/batteryschematic.png" alt="Sensor cluster wired to the Pico" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
+  <img src="/images/comfortmonitor/finalschematic.png" alt="Doorframe occupancy sensor PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
+  <img src="/images/comfortmonitor/finalpcb.png" alt="Main PCB and power circuit" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
+
 </div>
 
 ## Outcome
