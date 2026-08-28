@@ -9,7 +9,7 @@ collection: portfolio
 **Course:** CC2511 Digital Logic and Embedded Systems Design Process — Trimester 1, 2025 — James Cook University, Cairns  
 **Tools & Equipment:** Raspberry Pi Pico RP2040, CNC motor driver shield PCB, power supply PCB, soldering iron, stepper motors, spindle motor, PuTTY, C/Pico SDK, MATLAB
 
-![Cover Photo](/images/cnc3.jpeg){: style="border-radius: 8px"}
+![Cover Photo](/images/millingmachine/cnc.png){: style="border-radius: 8px"}
 
 ## Objective
 
@@ -25,12 +25,12 @@ Design and implement a complete software control system for a 2-axis CNC milling
 ## Gallery 🖼️
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 12px;">
-  <a href="/images/millingmachine/cnc.png"><img src="/images/cnc/rig.jpg" alt="Assembled CNC rig" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
-  <a href="/images/millingmachine/powerpcb.png"><img src="/images/cnc/powerpcb.jpg" alt="Soldered power PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
-  <a href="/images/millingmachine/steppermotors.png"><img src="/images/cnc/wiring.jpg" alt="Wiring of stepper motors and driver shield" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
-  <a href="/images/millingmachine/cncshield.png"><img src="/images/cnc/putty.png" alt="PuTTY terminal control interface" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
-  <a href="/images/millingmachine/rpipico.png"><img src="/images/cnc/putty.png" alt="PuTTY terminal control interface" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
-  <a href="/images/millingmachine/examplecode.png"><img src="/images/cnc/putty.png" alt="PuTTY terminal control interface" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/cnc.png"><img src="/images/millingmachine/cnc.png" alt="Assembled CNC rig" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/powerpcb.png"><img src="/images/millingmachine/powerpcb.png" alt="Soldered power PCB" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/steppermotors.png"><img src="/images/millingmachine/steppermotors.png" alt="Wiring of stepper motors and driver shield" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/cncshield.png"><img src="/images/millingmachine/cncshield.png" alt="CNC motor driver shield" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/rpipico.png"><img src="/images/millingmachine/rpipico.png" alt="Raspberry Pi Pico controller" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
+  <a href="/images/millingmachine/examplecode.png"><img src="/images/millingmachine/examplecode.png" alt="Example control code" style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;"></a>
 </div>
 
 ## Outcome
